@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: Cassandra Classic -->
-  <Cassandra.label>TODO</Cassandra.label>
+  <Cassandra.label>ﻚﻴﺳﻼﻛ ﺍﺭﺪﻧﺎﺳﺎﻛ</Cassandra.label>
   <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
-  <Cassandra.description>TODO</Cassandra.description>
+  <Cassandra.description>.ﺔﺣﺍﺮﻠﻟ ﺖﻗﻮﻟﺍ ﺀﺎﻄﻋﺇﻭ ، ﻦﺤﻤﻟﺍﻭ ﺐﻋﺎﺘﻤﻟﺍ ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﻞﺳﺮﺗ ﻑﻮﺳﻭ .ﺮﺗﻮﺘﻟﺍﻭ ﺔﻓﺎﺜﻜﻟﺍ ﺓﺩﺎﻳﺯ ﻊﻣ :ﺓﺪﻴﺠﻟﺍ ﺔﻳﺍﻭﺮﻟﺍ ﻦﻴﻧﺍﻮﻘﻟ ﺎﻘﻓﻭ ﺦﻳﺭﺎﺘﻟﺍ ﺙﺍﺪﺣﺍ ﻖﻠﺨﺗ ﺍﺭﺪﻧﺎﺳﺎﻛ/Cassandra.description>
   
   <!-- EN: Phoebe Chillax -->
-  <Phoebe.label>TODO</Phoebe.label>
+  <Phoebe.label>ﺎﻴﻧﻮﻬﻴﺗ ﻲﺒﻴﻓ</Phoebe.label>
   <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
-  <Phoebe.description>TODO</Phoebe.description>
+  <Phoebe.description>.ﺔﻴﻘﺑ ﻞﺜﻣ ﺓﻮﻘﺑ ﺏﺮﻀﺘﺴﻓ ، ﻪﻴﻟﺎﻋ ﺔﺑﻮﻌﺻ ﺕﺮﺘﺧﺍ ﺍﺫﺇ :ﺍﺭﺬﺣ ﻦﻛ ﻦﻜﻟﻭ .ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻳﻮﺴﺘﻟﺍ ﺀﺎﻨﺑﻭ ﺔﺣﺍﺮﻠﻟ ﻲﻓﺎﻜﻟﺍ ﺖﻗﻮﻟﺍ ﻙﺮﺘﻳ ﻲﺒﻴﻓ ﺔﻳﺪﺠﻟﺍ ﺕﺍﺭﺎﺒﺘﺧﻻﺍ ﻦﻴﺑ</Phoebe.description>
   
   <!-- EN: Randy Random -->
   <Randy.label>TODO</Randy.label>
